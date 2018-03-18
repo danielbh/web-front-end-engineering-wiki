@@ -186,6 +186,12 @@ A repo dedicated to interview preparation for a front-end developer
   - MVVM
   - MVP
 - Why might you create static class members
+- Decorator
+- Factory
+- Singleton
+- Revealing module
+- Facade
+- Observer
 
 ### Performance
 - Critical rendering path.
@@ -196,6 +202,9 @@ A repo dedicated to interview preparation for a front-end developer
 - When to prefetch and preload resources.
 - Reduce browser reflows and when to promote an element to the GPU.
 - Differences between the browser layout, compositing and painting.
+- What are some ways you may improve your website's scrolling performance?
+- What tools would you use to find a performance bug in your code?
+- [Front End Performance Checklist](https://hackernoon.com/front-end-performance-check-list-for-production-4e930cb63e8a)
 
 ### Security 
   - JSONP
@@ -210,8 +219,9 @@ A repo dedicated to interview preparation for a front-end developer
 - What is React Fiber?
 - What is the Shadow DOM?
 
-### Creative Problem Solving
+### General Questions
 - What is your general approach to fixing things that are broken?
+- What UI component have you tried that didn't work out.
 
 ### Algorithms
 - [55 Algo Expert Questions](https://www.algoexpert.io/questions)
