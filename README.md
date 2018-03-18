@@ -213,10 +213,10 @@ A repo dedicated to interview preparation for a front-end developer
 ### Creative Problem Solving
 - What is your general approach to fixing things that are broken?
 
-## Algorithms
+### Algorithms
 - [55 Algo Expert Questions](https://www.algoexpert.io/questions)
 
-## Data Structures
+### Data Structures
 - Hashmap
 - Linked List
 - Binary Search Tree
