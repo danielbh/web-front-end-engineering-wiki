@@ -34,6 +34,36 @@ A repo dedicated to interview preparation for a front-end developer
 - Knowing how to declare your doctype (most people are not writing new pages every day and forget this) and what meta tags are available to use.
 - Accessibility concerns, for example, making sure an input checkbox has a larger responding area (use label “for”). Also, role=”button”, role=”presentation”, etc.
 
+
+### JavaScript
+
+- Popular functions from lodash
+  - debounce
+  - clone
+- What is the event loop?
+- What is the difference between a call stack and a task queue?
+- ES5 class
+- ES6 class
+- Execution context
+- lexical scope
+- closures
+- Hoisting, function & block scoping and function expressions & declarations.
+- Binding – specifically call, bind, apply and lexical this.
+- Object prototypes, constructors and mixins.
+- Composition and high order functions.
+- Event delegation
+- Event bubbling
+- How to stop event bubbling
+- Type Coercion using typeof, instanceof and Object.prototype.toString.
+- Handling asynchronous calls with callbacks, promises, await and async.
+- When to use function declarations and expressions.
+- Can you name two programming paradigms important for JavaScript app developers?
+- What is the difference between classical inheritance and prototypal inheritance?
+- What is asynchronous programming, and why is it important in JavaScript?
+- What is a promise?
+- What does 'use strict' do?
+- [37 coding questions (Toptal)](https://www.toptal.com/javascript/interview-questions)
+
 ### CSS
 - Layout – sitting elements next to each other and how to place elements in two columns vs three columns.
 - Responsive design – changing an element’s dimensions based on the browser width size.
@@ -127,36 +157,6 @@ A repo dedicated to interview preparation for a front-end developer
 - BEM and OOCSS.
 - Medium CSS
 - 26 CSS Questions
-
-
-### JavaScript
-
-- Popular functions from lodash
-  - debounce
-  - clone
-- What is the event loop?
-- What is the difference between a call stack and a task queue?
-- ES5 class
-- ES6 class
-- Execution context
-- lexical scope
-- closures
-- Hoisting, function & block scoping and function expressions & declarations.
-- Binding – specifically call, bind, apply and lexical this.
-- Object prototypes, constructors and mixins.
-- Composition and high order functions.
-- Event delegation
-- Event bubbling
-- How to stop event bubbling
-- Type Coercion using typeof, instanceof and Object.prototype.toString.
-- Handling asynchronous calls with callbacks, promises, await and async.
-- When to use function declarations and expressions.
-- Can you name two programming paradigms important for JavaScript app developers?
-- What is the difference between classical inheritance and prototypal inheritance?
-- What is asynchronous programming, and why is it important in JavaScript?
-- What is a promise?
-- What does 'use strict' do?
-- [37 coding questions (Toptal)](https://www.toptal.com/javascript/interview-questions)
 
 ### Functional programming
 - What is functional programming?
