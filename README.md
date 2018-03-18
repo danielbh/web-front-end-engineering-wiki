@@ -213,6 +213,17 @@ A repo dedicated to interview preparation for a front-end developer
 ### Creative Problem Solving
 - What is your general approach to fixing things that are broken?
 
+## Algorithms
+- [55 Algo Expert Questions](https://www.algoexpert.io/questions)
+
+## Data Structures
+- Hashmap
+- Linked List
+- Binary Search Tree
+- Tree
+- Trie
+- Min Heap
+
 ## References
 
 - [David Shariff's Perparing for a Front-End Web Development Interview 2017](http://davidshariff.com/blog/preparing-for-a-front-end-web-development-interview-in-2017/#first-article)
