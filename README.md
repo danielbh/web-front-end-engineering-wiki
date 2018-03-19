@@ -12,11 +12,11 @@ A repo dedicated to interview preparation for a front-end developer
   - Nav scroll component
   - Force an image to be a specific size
   - Build a client-side spellchecker
-  - HTTP requests – GET and POST along with associated headers such as 
-   - Cache-Control
-   - ETag
-   - Status Codes
-   - Transfer-Encoding.
+  - HTTP Headers
+     - Cache-Control
+     - ETag
+     - Status Codes
+     - Transfer-Encoding.
    - REST vs RPC.
 
 ### DOM
