@@ -221,10 +221,11 @@ A repo dedicated to interview preparation for a front-end developer
   - iFrame policies.
   - OWASP top 10
 
-### React/Redux/MobX
+### React/Redux/MobX/GraphQL
 - [Build React from scratch and explain each part](https://github.com/danielbh/didact)
 - Why would you use React as opposed to something else? Benefits? Cons?
 - Why would you use Redux or MobX?
+- Why would you use GraphQL?
 - How to create Redux Middleware
 - What is React Fiber?
 - What is the Shadow DOM?
