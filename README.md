@@ -232,8 +232,15 @@ A repo dedicated to interview preparation for a front-end developer
 - What is your general approach to fixing things that are broken?
 - What UI component have you tried that didn't work out.
 
-### Algorithms
+### Basic Algorithms
 - [55 Algo Expert Questions](https://www.algoexpert.io/questions)
+- Quicksort
+- Mergesort
+- Breadth First Search
+- Depth First Search
+- Binary Search
+- Fibonacci Recursive Memoized
+- Fibonacci Iterative
 
 ### Data Structures
 - Hashmap
