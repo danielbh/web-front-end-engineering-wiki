@@ -235,9 +235,10 @@ A repo dedicated to interview preparation for a front-end developer
 ### Basic Algorithms
 - [55 Algo Expert Questions](https://www.algoexpert.io/questions)
 - Quicksort
-- Mergesort
+- Merge sort
 - Breadth First Search
 - Depth First Search
+- BST Traversal (in-order, pre-order, post-order)
 - Binary Search
 - Fibonacci Recursive Memoized
 - Fibonacci Iterative
