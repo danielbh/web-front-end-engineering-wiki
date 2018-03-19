@@ -10,14 +10,22 @@ A repo dedicated to interview preparation for a front-end developer
   - An infinite scroll with loading element
   - A carrousel with animations for changing photos
   - Nav scroll component
-  - Force an image to be a specific size
+  - type-ahead
+  - vertical parrallax
+  - a toast alert
+  - responsive navbar
+  - a gauge
+  - inline input
+  - responsive grid framework
+  - responsive nav that closes and opens
   - Build a client-side spellchecker
-  - HTTP Headers
-     - Cache-Control
-     - ETag
-     - Status Codes
-     - Transfer-Encoding.
-   - REST vs RPC.
+- Force an image to be a specific size
+- HTTP Headers
+   - Cache-Control
+   - ETag
+   - Status Codes
+   - Transfer-Encoding.
+ - REST vs RPC.
 
 ### DOM
 
@@ -70,8 +78,8 @@ A repo dedicated to interview preparation for a front-end developer
 - Adaptive design – changing an element’s dimensions based on specific break points.
 - Specificity – how to calculate a selector’s specificity and how the cascade affects attributes.
 - Appropriate namespacing and naming of classnames.
-- [Flexbox](http://flexboxfroggy.com/)
-- [CSS Grid](http://cssgridgarden.com/)
+- [Flexbox Froggy](http://flexboxfroggy.com/)
+- [CSS Grid Garden](http://cssgridgarden.com/)
 - What's the difference between "resetting" and "normalizing" CSS? Which would you choose, and why?
 - Describe Floats and how they work.
 - Describe z-index and how stacking context is formed.
@@ -212,10 +220,11 @@ A repo dedicated to interview preparation for a front-end developer
   - iFrame policies.
   - OWASP top 10
 
-### React
+### React/Redux/MobX
 - [Build React from scratch and explain each part](https://github.com/danielbh/didact)
 - Why would you use React as opposed to something else? Benefits? Cons?
 - Why would you use Redux or MobX?
+- How to create Redux Middleware
 - What is React Fiber?
 - What is the Shadow DOM?
 
