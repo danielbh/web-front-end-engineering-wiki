@@ -70,6 +70,7 @@ A repo dedicated to interview preparation for a front-end developer
 - What is asynchronous programming, and why is it important in JavaScript?
 - What is a promise?
 - What does 'use strict' do?
+- Create a ranom number within a specified range
 - [37 coding questions (Toptal)](https://www.toptal.com/javascript/interview-questions)
 
 ### CSS
