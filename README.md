@@ -228,7 +228,7 @@ A repo dedicated to interview preparation for a front-end developer
 - Why would you use GraphQL?
 - How to create Redux Middleware
 - What is React Fiber?
-- What is the Shadow DOM?
+- [Virtual & Shadow DOM](https://stackoverflow.com/questions/36012239/is-shadow-dom-fast-like-virtual-dom-in-react-js)
 
 ### General Questions
 - What is your general approach to fixing things that are broken?
