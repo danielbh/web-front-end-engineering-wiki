@@ -140,13 +140,9 @@ A repo dedicated to interview preparation for a front-end developer
 - How can you load css resources conditionally?
 - Why would you use sprites?
 - What is specificity? How do u calculate specificity?
-
-   - 1000 Inline styles (Presence of style in document). An inline style lives within your XHTML document. It is attached directly to the element to be styled. E.g. <h1 style=“color: #fff;”>
-
+   - 1000 Inline styles (Presence of style in document). An inline style lives within your XHTML document. It is attached directly to the element to be styled. E.g. ```<h1 style=“color: #fff;”>```
    - 100 IDs (# of ID selectors) ID is an identifier for your page elements, such as #div.
-
    - 10 Classes, attributes and pseudo-classes (# of class selectors). This group includes .classes, [attributes] and pseudo-classes such as :hover, :focus etc.
-
    - 1 Elements and pseudo-elements (# of Element (type) selectors). Including for instance :before and :after.
 
 - What do you know about transition?
