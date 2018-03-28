@@ -140,6 +140,7 @@ A repo dedicated to interview preparation for a front-end developer
 - How can you load css resources conditionally?
 - Why would you use sprites?
 - What is specificity? How do u calculate specificity?
+
    - 1000 Inline styles (Presence of style in document). An inline style lives within your XHTML document. It is attached directly to the element to be styled. E.g. <h1 style=“color: #fff;”>
 
    - 100 IDs (# of ID selectors) ID is an identifier for your page elements, such as #div.
@@ -154,6 +155,7 @@ A repo dedicated to interview preparation for a front-end developer
 - Show you couple of style example and you have to tell what does it do.
 - What is each side for margin x y z f ?
 - How to center element css2 vs css3
+  - [CSS Tricks Guide]: https://css-tricks.com/centering-css-complete-guide/ 
 - Create a flex container
 - Put flex items in a row
 - Put flex items into a column
