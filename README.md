@@ -122,6 +122,10 @@ A repo dedicated to interview preparation for a front-end developer
 - In a HTML document, the pseudo class :root always refers to the element.
 - The translate() function can move the position of an element on the z-axis.
 - Which one would you prefer among px, em % or pt and why?
+   - **px**: gives fine grained control and maintains alignment because 1 px or multiple of 1 px is guaranteed to look sharp. px is not cascade, this means if parent font-size is 20px and child 16px. child would be 16px.
+   - **em**: maintains relative size. you can have responsive fonts. em is the width of the letter 'm' in the selected typeface. However, this concept is tricky. 1em is equal to the current font-size of the element or the browser default. if u sent font-size to 16px then 1em = 16px. The common practice is to set default body font-size to 62.5% (equal to 10px). em is cascade
+   - **%**: sets font-size relative to the font size of the body. Hence, you have to set font-size of the body to a reasonable size. this is easy to use and does cascade. for example, if parent font-size is 20px and child font-size is 50%. child would be 10px.  
+   - **pt**: (points) are traditionally used in print. 1pt = 1/72 inch and it is fixed-size unit.
 - How absolute, relative, fixed and static position differ?
 - What are the differences between visibility hidden and display none?
 - What are the differences between inline, block and inline-block?
@@ -136,15 +140,18 @@ A repo dedicated to interview preparation for a front-end developer
 - How can you load css resources conditionally?
 - Why would you use sprites?
 - What is specificity? How do u calculate specificity?
+   - 1000 Inline styles (Presence of style in document). An inline style lives within your XHTML document. It is attached directly to the element to be styled. E.g. <h1 style=“color: #fff;”>
+
+   - 100 IDs (# of ID selectors) ID is an identifier for your page elements, such as #div.
+
+   - 10 Classes, attributes and pseudo-classes (# of class selectors). This group includes .classes, [attributes] and pseudo-classes such as :hover, :focus etc.
+
+   - 1 Elements and pseudo-elements (# of Element (type) selectors). Including for instance :before and :after.
+
 - What do you know about transition?
 - What are the different css filter you can use?
 - What are the reasons to use preprocessor?
 - Show you couple of style example and you have to tell what does it do.
-- px 
-- em 
-- % 
-- pt
-- specificity hierarchy
 - What is each side for margin x y z f ?
 - How to center element css2 vs css3
 - Create a flex container
