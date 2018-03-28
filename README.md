@@ -1,5 +1,5 @@
 ## Front End Engineering Study Guide
-A repo dedicated to interview preparation for a front-end developer
+A repo dedicated to solving common problems that a front end web developer encounters.
 
 ### Web
 
@@ -124,7 +124,7 @@ A repo dedicated to interview preparation for a front-end developer
 - Which one would you prefer among px, em % or pt and why?
    - **px**: gives fine grained control and maintains alignment because 1 px or multiple of 1 px is guaranteed to look sharp. px is not cascade, this means if parent font-size is 20px and child 16px. child would be 16px.
    - **em**: maintains relative size. you can have responsive fonts. em is the width of the letter 'm' in the selected typeface. However, this concept is tricky. 1em is equal to the current font-size of the element or the browser default. if u sent font-size to 16px then 1em = 16px. The common practice is to set default body font-size to 62.5% (equal to 10px). em is cascade
-   - **%**: sets font-size relative to the font size of the body. Hence, you have to set font-size of the body to a reasonable size. this is easy to use and does cascade. for example, if parent font-size is 20px and child font-size is 50%. child would be 10px.  
+   - **%**: sets font-size relative to the font size of the body. Hence, you have to set font-size of the body to a reasonable size. this is easy to use and does cascade. for example, if parent font-size is 20px and child font-size is 50%. child would be 10px.
    - **pt**: (points) are traditionally used in print. 1pt = 1/72 inch and it is fixed-size unit.
 - How absolute, relative, fixed and static position differ?
 - What are the differences between visibility hidden and display none?
@@ -220,7 +220,7 @@ A repo dedicated to interview preparation for a front-end developer
 - What tools would you use to find a performance bug in your code?
 - [Front End Performance Checklist](https://hackernoon.com/front-end-performance-check-list-for-production-4e930cb63e8a)
 
-### Security 
+### Security
   - JSONP
   - CORR
   - iFrame policies.
