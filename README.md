@@ -263,4 +263,5 @@ A repo dedicated to solving common problems that a front end web developer encou
 - [David Shariff's Perparing for a Front-End Web Development Interview 2017](http://davidshariff.com/blog/preparing-for-a-front-end-web-development-interview-in-2017/#first-article)
 - [Eric Elliot's 10 Interview Questions Every JavaScript Developer Should Know](https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95)
 - [That JS Dude](https://github.com/khan4019/front-end-Interview-Questions)
+- [FE Interview Handbook](https://github.com/yangshun/front-end-interview-handbook)
 
