@@ -222,9 +222,10 @@ A repo dedicated to solving common problems that a front end web developer encou
 
 ### Security
   - JSONP
-  - CORR
+  - CORS
   - iFrame policies.
   - OWASP top 10
+  - [Security Checklist](https://blog.hartleybrody.com/startup-security/)
 
 ### React/Redux/MobX/GraphQL
 - [Build React from scratch and explain each part](https://github.com/danielbh/didact)
