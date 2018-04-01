@@ -26,6 +26,7 @@ A repo dedicated to solving common problems that a front end web developer encou
    - Status Codes
    - Transfer-Encoding.
  - REST vs RPC.
+ - [How to structure a REST API](https://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api)
 
 ### DOM
 
