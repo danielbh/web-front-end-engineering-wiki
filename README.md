@@ -259,7 +259,7 @@ A repo dedicated to solving common problems that a front end web developer encou
 - Trie
 - Min Heap
 
-## Developer Tools
+### Developer Tools
 - [Merging vs Rebasing](https://www.atlassian.com/git/tutorials/merging-vs-rebasing)
 
 ## References
