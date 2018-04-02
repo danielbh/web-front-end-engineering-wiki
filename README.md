@@ -145,7 +145,6 @@ A repo dedicated to solving common problems that a front end web developer encou
    - 100 IDs (# of ID selectors) ID is an identifier for your page elements, such as #div.
    - 10 Classes, attributes and pseudo-classes (# of class selectors). This group includes .classes, [attributes] and pseudo-classes such as :hover, :focus etc.
    - 1 Elements and pseudo-elements (# of Element (type) selectors). Including for instance :before and :after.
-
 - What do you know about transition?
 - What are the different css filter you can use?
 - What are the reasons to use preprocessor?
@@ -259,6 +258,9 @@ A repo dedicated to solving common problems that a front end web developer encou
 - Tree
 - Trie
 - Min Heap
+
+## Developer Tools
+- [Merging vs Rebasing](https://www.atlassian.com/git/tutorials/merging-vs-rebasing)
 
 ## References
 
