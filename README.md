@@ -225,7 +225,7 @@ A repo dedicated to solving common problems that a front end web developer encou
   - JSONP
   - CORS
   - iFrame policies.
-  - OWASP top 10
+  - [OWASP top 10](https://storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/owasptop10/OWASP%20Top%2010%20-%202013.pdf)
   - [Security Checklist](https://blog.hartleybrody.com/startup-security/)
 
 ### React/Redux/MobX/GraphQL
