@@ -261,6 +261,7 @@ A repo dedicated to solving common problems that a front end web developer encou
 
 ### Developer Tools
 - [Merging vs Rebasing](https://www.atlassian.com/git/tutorials/merging-vs-rebasing)
+- [A Quick Tutorial on Git Rebasing](https://benmarshall.me/git-rebase/)
 
 ## References
 
