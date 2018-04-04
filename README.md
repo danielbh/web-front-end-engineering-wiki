@@ -49,7 +49,7 @@ A repo dedicated to solving common problems that a front end web developer encou
 - Popular functions from lodash
   - debounce
   - clone
-- What is the event loop?
+- [What is the event loop](https://www.youtube.com/watch?v=8aGhZQkoFbQ)?
 - What is the difference between a call stack and a task queue?
 - ES5 class
 - ES6 class
@@ -262,6 +262,7 @@ A repo dedicated to solving common problems that a front end web developer encou
 ### Developer Tools
 - [Merging vs Rebasing](https://www.atlassian.com/git/tutorials/merging-vs-rebasing)
 - [A Quick Tutorial on Git Rebasing](https://benmarshall.me/git-rebase/)
+- [Git Rebase example](https://repl.it/@danielbh/Git-Rebase-Example)
 
 ## References
 
