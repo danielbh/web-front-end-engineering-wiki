@@ -173,7 +173,7 @@ A repo dedicated to solving common problems that a front end web developer encou
 - 26 CSS Questions
 
 ### Functional programming
-- What is functional programming?
+- [What is functional programming?](https://medium.com/javascript-scene/the-two-pillars-of-javascript-pt-2-functional-programming-a63aa53a41a4)
 - What is a pure function?
 - What is functional composition?
 - What is a side-effect?
